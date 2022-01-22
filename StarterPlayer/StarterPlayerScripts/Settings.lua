@@ -1,0 +1,4 @@
+return {
+	tileSize = 28,
+}
+
